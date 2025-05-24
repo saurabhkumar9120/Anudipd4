@@ -1,1 +1,2 @@
-Python Program to Find the Largest Among Three Numbers.
+Q1-Python Program to Find the Largest Among Three Numbers.
+Q2-A toy vendor supplies three types of toys: Battery Based Toys, Key-basedToys, and Electrical Charging Based Toys. The vendor gives a discount of10% on orders for battery-based toys if the order is for more than Rs. 1000.On orders of more than Rs. 100 for key-based toys, a discount of 5% isgiven, and a discount of 10% is given on orders for electrical charging based toys of value more than Rs. 500. Assume that the numeric codes 1,2 and 3are used for battery based toys, key-based toys, and
